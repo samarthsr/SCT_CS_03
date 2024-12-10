@@ -30,7 +30,7 @@ Steps
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/SUHAS-HAR1SH/SCT_CS_03.git
+git clone https://github.com/samarthsr/SCT_CS_03.git
 cd password-strength-checker
 Run the program:
 bash
